@@ -1,1 +1,3 @@
 https://www.deeplearningwizard.com/deep_learning/boosting_models_pytorch/weight_initialization_activation_functions/
+http://www.erogol.com/dilated-convolution/
+https://distill.pub/2016/deconv-checkerboard/
